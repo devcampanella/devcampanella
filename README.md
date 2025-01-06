@@ -2,7 +2,7 @@
 
 
 - 🔭 AUTÔNOMO.
-- 💻 Estudadndo-->  HTML /  CSS3 / PYTHON /Software Quality
+- 💻 Estudadndo-->  HTML /  CSS3 / PYTHON / Software Quality
 - 👨‍💼 PRONOME--> ELE/DELE
 ##
 <div>
